@@ -49,6 +49,7 @@ header .icons span:before {
   color: white;
   font-size: 30px;
 }
+
 nav {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -89,7 +90,7 @@ nav .profile-link a{
   margin-top: 80px;
 }
 .home-main-text {
-  font-size: 30px;
+  font-size: 55px;
   font-weight: 700px;
   letter-spacing: 10px;
   color: white;
